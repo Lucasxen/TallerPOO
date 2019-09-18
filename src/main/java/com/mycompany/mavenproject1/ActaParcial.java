@@ -3,10 +3,6 @@ package com.mycompany.mavenproject1;
 
 import java.util.Date;
 
-/**
- *
- * @author HP871
- */
 public class ActaParcial {
     
     private Date fechaR;
@@ -49,3 +45,10 @@ public class ActaParcial {
     
     
 }
+
+
+
+/**
+ *
+ * @author LucasGuida, KevinKling, DionisioDucart, JereLapalma
+ */
