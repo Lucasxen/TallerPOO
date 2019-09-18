@@ -3,10 +3,6 @@ package com.mycompany.mavenproject1;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author HP871
- */
 public class ActaExamenFin {
     
     private boolean estado;
@@ -34,3 +30,8 @@ public class ActaExamenFin {
     }
     
 }
+
+/**
+ *
+ * @author LucasGuida, KevinKling, DionisioDucart, JereLapalma
+ */
